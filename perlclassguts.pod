@@ -1,4 +1,6 @@
 
+=encoding utf8
+
 =head1 NAME
 
 =begin original
@@ -7,8 +9,10 @@ perlclassguts - Internals of how C<feature 'class'> and class syntax works
 
 =end original
 
-perlclassguts-C<feature 'class'>とクラス構文の動作の内部
-(TBR)
+perlclassguts - C<feature 'class'> とクラス構文の動作の内部
+
+(訳注: (TBR)がついている段落は「みんなの自動翻訳＠TexTra」による
+機械翻訳です。)
 
 =head1 DESCRIPTION
 

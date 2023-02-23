@@ -1,4 +1,6 @@
 
+=encoding utf8
+
 =head1 NAME
 
 =begin original
@@ -7,8 +9,10 @@ perlclass - Perl class syntax reference
 
 =end original
 
-perlclass-Perlクラス構文リファレンス
-(TBR)
+perlclass - Perl クラス構文リファレンス
+
+(訳注: (TBR)がついている段落は「みんなの自動翻訳＠TexTra」による
+機械翻訳です。)
 
 =head1 SYNOPSIS
 
